@@ -1,0 +1,132 @@
+{
+items: [
+{
+key: "_Language",
+value: "Chinese"
+},
+{
+key: "CharName_Asriel",
+value: "亚斯"
+},
+{
+key: "CharName_BirdMerch",
+value: "鸟商人"
+},
+{
+key: "CharName_Lucas",
+value: "卢卡斯"
+},
+{
+key: "Dialogue_Choice_No",
+value: "不"
+},
+{
+key: "Dialogue_Choice_Yes",
+value: "対"
+},
+{
+key: "Dialogue_Debug",
+value: "The quick brown @9fox@ jumps over the l|2a|2z|2y|2 dog."
+},
+{
+key: "Dialogue_Divergence_Debug",
+value: "我已经跟你谈过了，对吧？"
+},
+{
+key: "InventoryItem_Description_Box",
+value: "它只是一个有眼睛的...普通盒子."
+},
+{
+key: "InventoryItem_Description_HamiltonsShot",
+value: "不要把它丢掉."
+},
+{
+key: "InventoryItem_Name_Box",
+value: "盒子"
+},
+{
+key: "InventoryItem_Name_HamiltonsShot",
+value: "汉密尔顿射击"
+},
+{
+key: "MainMenu_ContinueGame",
+value: "继续"
+},
+{
+key: "MainMenu_QuitGame",
+value: "离开"
+},
+{
+key: "MainMenu_Settings",
+value: "设置"
+},
+{
+key: "MainMenu_StartGame",
+value: "开始"
+},
+{
+key: "MainMenu_Title",
+value: "Overtale"
+},
+{
+key: "Menu_Back",
+value: "回去"
+},
+{
+key: "SettingsMenu_AA",
+value: "反锯齿"
+},
+{
+key: "SettingsMenu_Bloom",
+value: "电脑绽放"
+},
+{
+key: "SettingsMenu_DOF",
+value: "景深"
+},
+{
+key: "SettingsMenu_EnumValue_High",
+value: "高"
+},
+{
+key: "SettingsMenu_EnumValue_Low",
+value: "低"
+},
+{
+key: "SettingsMenu_EnumValue_Medium",
+value: "中"
+},
+{
+key: "SettingsMenu_EnumValue_VeryHigh",
+value: "最高"
+},
+{
+key: "SettingsMenu_Language",
+value: "Language"
+},
+{
+key: "SettingsMenu_MotionBlur",
+value: "运动模糊"
+},
+{
+key: "SettingsMenu_MusicVolume",
+value: "音乐音量"
+},
+{
+key: "SettingsMenu_SFXVolume",
+value: "SFX Volume"
+},
+{
+key: "SettingsMenu_ShadowQuality",
+value: "影子质量"
+},
+{
+key: "SettingsMenu_TextureQuality",
+value: "纹理质量"
+},
+{
+key: "SettingsMenu_Title",
+value: "设置"
+}
+]
+}
