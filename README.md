@@ -1,2 +1,2 @@
-# Other_Stuff_Codes
-This is for other stuff.
+# Other_Stuff
+Here are codes for other stuff that is not significant or isn't my main project at the moment.
